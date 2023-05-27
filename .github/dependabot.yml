@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "default"
+  - package-ecosystem: "pub"
     directory: "/"
     schedule:
       interval: "daily"
