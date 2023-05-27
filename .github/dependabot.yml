@@ -5,7 +5,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "flutter"
+  - package-ecosystem: "default"
     directory: "/"
     schedule:
       interval: "daily"
